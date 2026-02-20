@@ -213,7 +213,6 @@ python path/to/run_level_3.py
 # Outputs
 
 - `output_levelX.wav` – Decoded audio
-- `aac_seq_3.mat` – Encoded structure
 - `coded_level3_metrics.csv` – Per-frame encoding metrics
 
 ---
