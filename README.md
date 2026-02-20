@@ -185,6 +185,8 @@ Practically lossless (only floating-point rounding errors).
 | 65 | 7.68  | 206.07 | 7.45× |
 | 70 | 6.44  | 207.86 | 7.39× |
 | 75 | 5.97  | 209.72 | 7.32× |
+| 100 | 5.97 | 214.14 | 7.17x |
+| 250 | 5.97 | 218.00 | 7.05x |
 
 An interesting behavior appears beyond 60 iterations, where bitrate starts increasing again due to large scalefactor differences increasing Huffman cost.
 
